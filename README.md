@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAFI7lSDjvw/zLsvl85fg4B2npQlSuzMAw/view?utm_content=DAFI7lSDjvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner](banner.png)
 # Tanpreet Singh Jolly
 
 [![GitHub followers](https://img.shields.io/github/followers/tanpreetjolly.svg?style=social)](https://github.com/tanpreetjolly?tab=followers)
