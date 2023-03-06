@@ -5,7 +5,17 @@
 
 ## About Me
 
-I am a [job title] with [number] years of experience in [industry/field]. I specialize in [skillset or area of expertise] and have worked with [programming languages, tools, and technologies].
+Hi there! My name is Tanpreet, and I'm a web developer based in New Delhi, India. I specialize in building responsive and interactive websites and web applications using modern web technologies like HTML5, CSS3, JavaScript, and ReactJS. I'm also proficient in using various UI libraries like Tailwind CSS to quickly build beautiful and responsive user interfaces.
+
+## Skills
+
+-HTML5
+-CSS3
+-JavaScript
+-ReactJS
+-Tailwind CSS
+-Git
+-Saas
 
 ## Projects
 
@@ -15,13 +25,6 @@ Here are some of my projects that I have worked on:
 - [Project Name](link to the project) - Brief description of the project
 - [Project Name](link to the project) - Brief description of the project
 
-## Skills
-
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
-- [Skill 5]
 
 ## Contact Me
 
