@@ -9,13 +9,13 @@ Hi there! My name is Tanpreet, and I'm a web developer based in New Delhi, India
 
 ## Skills
 
-HTML5
-CSS3
-JavaScript
-React
-Saas
-Tailwind CSS
-Git
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Saas
+- Tailwind CSS
+- Git
 
 ## Projects
 
