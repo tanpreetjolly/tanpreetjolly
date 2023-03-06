@@ -1,4 +1,4 @@
-![Banner](banner.png)
+
 # Tanpreet Singh Jolly
 
 [![GitHub followers](https://img.shields.io/github/followers/tanpreetjolly.svg?style=social)](https://github.com/tanpreetjolly?tab=followers)
