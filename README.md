@@ -42,5 +42,5 @@ Here are some of my projects that I have worked on:
 ## Contact Me
 
 - Email: tanpreet2002@gmail.com
-- Twitter: (https://twitter.com/JollyTanpreet)
+- Twitter: [@JollyTanpreet](https://twitter.com/JollyTanpreet)
 - LinkedIn: (https://www.linkedin.com/in/tanpreet-singh-jolly-b564a8232/)
