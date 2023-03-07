@@ -1,4 +1,5 @@
-![Banner](/bannerGithub.png)
+[Hi👋, Myself]
+[Tanpreet Singh Jolly]
 
 
 <div style="display: flex;">
