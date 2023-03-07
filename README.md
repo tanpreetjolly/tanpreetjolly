@@ -34,13 +34,13 @@ Hi there! My name is Tanpreet, and I'm a web developer based in New Delhi, India
 
 Here are some of my projects that I have worked on:
 
-- [Project Name](link to the project) - Brief description of the project
-- [Project Name](link to the project) - Brief description of the project
-- [Project Name](link to the project) - Brief description of the project
+- Developer Portfolio(https://portfolio-tanpreet.netlify.app/) - A developer portfolio which shows my tech stacks and projects.
+- Landing Page(https://landingpage-tanpreet.netlify.app/) - A simple static landing page for a brand.
+- Survey Form(https://surveyform-tanpreet.netlify.app/) - A clone of freeCodeCamp Survey Form.
 
 
 ## Contact Me
 
-- Email: [your email address]
-- Twitter: [your Twitter handle]
-- LinkedIn: [your LinkedIn profile URL]
+- Email: tanpreet2002@gmail.com
+- Twitter: (https://twitter.com/JollyTanpreet)
+- LinkedIn: (https://www.linkedin.com/in/tanpreet-singh-jolly-b564a8232/)
