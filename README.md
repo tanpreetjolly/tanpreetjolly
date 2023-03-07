@@ -1,4 +1,19 @@
-![Banner](https://www.canva.com/design/DAFI7lSDjvw/zLsvl85fg4B2npQlSuzMAw/view?utm_content=DAFI7lSDjvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner](/banner.png)
+
+
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+</div>
+
+
+
 # Tanpreet Singh Jolly
 
 [![GitHub followers](https://img.shields.io/github/followers/tanpreetjolly.svg?style=social)](https://github.com/tanpreetjolly?tab=followers)
@@ -22,13 +37,13 @@ Hi there! My name is Tanpreet, and I'm a web developer based in New Delhi, India
 
 Here are some of my projects that I have worked on:
 
-- [Project Name](link to the project) - Brief description of the project
-- [Project Name](link to the project) - Brief description of the project
-- [Project Name](link to the project) - Brief description of the project
+- [Developer Portfolio](https://portfolio-tanpreet.netlify.app/) - A developer portfolio which shows my tech stacks and projects.
+- [Landing Page](https://landingpage-tanpreet.netlify.app/) - A simple static landing page for a brand.
+- [Survey Form](https://surveyform-tanpreet.netlify.app/) - A clone of freeCodeCamp Survey Form.
 
 
 ## Contact Me
 
-- Email: [your email address]
-- Twitter: [your Twitter handle]
-- LinkedIn: [your LinkedIn profile URL]
+- Email: tanpreet2002@gmail.com
+- Twitter: [@JollyTanpreet](https://twitter.com/JollyTanpreet)
+- LinkedIn: [tanpreetjolly](https://www.linkedin.com/in/tanpreet-singh-jolly-b564a8232/)
