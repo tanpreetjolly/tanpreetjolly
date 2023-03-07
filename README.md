@@ -13,9 +13,6 @@
 </div>
 
 
-
-# Tanpreet Singh Jolly
-
 [![GitHub followers](https://img.shields.io/github/followers/tanpreetjolly.svg?style=social)](https://github.com/tanpreetjolly?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JollyTanpreet?style=social)](https://twitter.com/JollyTanpreet)
 
