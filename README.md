@@ -1,5 +1,5 @@
-[Hi👋, Myself]
-[Tanpreet Singh Jolly]
+## Hi👋,
+## My name is Tanpreet Singh Jolly
 
 
 <div style="display: flex;">
