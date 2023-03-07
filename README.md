@@ -1,4 +1,4 @@
-![Banner](/banner.png)
+![Banner](/bannerGithub.png)
 
 
 <div style="display: flex;">
