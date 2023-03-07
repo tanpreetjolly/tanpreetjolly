@@ -1,5 +1,5 @@
 ## Hi👋,
-## Myself Tanpreet Singh Jolly
+## I am Tanpreet Singh Jolly
 
 
 <div style="display: flex;">
