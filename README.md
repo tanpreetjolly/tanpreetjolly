@@ -27,7 +27,7 @@ Hi there! My name is Tanpreet, and I'm a web developer based in New Delhi, India
 - CSS3
 - JavaScript
 - React
-- Saas
+- Sass
 - Tailwind CSS
 - Git
 
