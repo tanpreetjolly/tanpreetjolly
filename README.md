@@ -1,14 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanpreet Jolly======================================================================================================================================Full-Stack Web Developer------------------------I've been coding for the past 1 year and really found a passion in Web Development. I have a good experience in Frontend Frameworks. I love to develop clean, responsive and working websites.* 🌍  I'm based in New Delhi* 🖥️  See my portfolio at [Tanpreet Singh Jolly](http://tanpreetsingh.netlify.app)* ✉️  You can contact me at [tanpreet2002@gmail.com](mailto:tanpreet2002@gmail.com)* 🚀  I'm currently working on [Genci](http://genci.university)* 🧠  I'm learning NextJS* 🤝  I'm open to collaborating on Interesting Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanpreet Jolly
+======================================================================================================================================
 
+Full-Stack Web Developer
+------------------------
+
+I've been coding for the past 1 year and really found a passion in Web Development. I have a good experience in Frontend Frameworks. I love to develop clean, responsive and working websites.
+
+*   🌍  I'm based in New Delhi
+*   🖥️  See my portfolio at [Tanpreet Singh Jolly](http://tanpreetsingh.netlify.app)
+*   ✉️  You can contact me at [tanpreet2002@gmail.com](mailto:tanpreet2002@gmail.com)
+*   🚀  I'm currently working on [Genci](http://genci.university)
+*   🧠  I'm learning NextJS
+*   🤝  I'm open to collaborating on Interesting Projects
 <a href="https://www.x.com/JollyTanpreet" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JollyTanpreet?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=171717"/></a>
+                  src="https://img.shields.io/twitter/follow/JollyTanpreet?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=171717"
+                /></a>
 
-### Skills
-
-
+### Skills 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON </p>
-### Socials<p align="left"> <a href="https://www.github.com/tanpreetjolly" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/JollyTanpreet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
+                    </p>
+                    
+
+                  ### Socials
+                  
+                  <p align="left"> <a href="https://www.github.com/tanpreetjolly" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/JollyTanpreet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
