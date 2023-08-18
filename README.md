@@ -1,47 +1,23 @@
-## Hi👋,
-## I am Tanpreet Singh Jolly
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanpreet Jolly======================================================================================================================================Full-Stack Web Developer------------------------I've been coding for the past 1 year and really found a passion in Web Development. I have a good experience in Frontend Frameworks. I love to develop clean, responsive and working websites.* 🌍  I'm based in New Delhi* 🖥️  See my portfolio at [Tanpreet Singh Jolly](http://tanpreetsingh.netlify.app)* ✉️  You can contact me at [tanpreet2002@gmail.com](mailto:tanpreet2002@gmail.com)* 🚀  I'm currently working on [Genci](http://genci.university)* 🧠  I'm learning NextJS* 🤝  I'm open to collaborating on Interesting Projects
+
+<a href="https://www.x.com/JollyTanpreet" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/JollyTanpreet?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=171717"/></a>
+
+### Skills
 
 
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-</div>
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON </p>
+### Socials<p align="left"> <a href="https://www.github.com/tanpreetjolly" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/JollyTanpreet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
+### Badges
 
-[![GitHub followers](https://img.shields.io/github/followers/tanpreetjolly.svg?style=social)](https://github.com/tanpreetjolly?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JollyTanpreet?style=social)](https://twitter.com/JollyTanpreet)
+<b>My GitHub Stats</b>
 
-## About Me
+<a href="http://www.github.com/tanpreetjolly"><img src="https://github-readme-stats.vercel.app/api?username=tanpreetjolly&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="tanpreetjolly's GitHub stats" /></a>
 
-Hi there! My name is Tanpreet, and I'm a web developer based in New Delhi, India. I specialize in building responsive and interactive websites and web applications using modern web technologies like HTML5, CSS3, JavaScript, and ReactJS. I'm also proficient in using various UI libraries like Tailwind CSS to quickly build beautiful and responsive user interfaces.
+<a href="http://www.github.com/tanpreetjolly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanpreetjolly&stroke=ffffff&background=171717&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Skills
+<a href="http://www.github.com/tanpreetjolly"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tanpreetjolly&bg_color=171717&color=ffffff&line=14b8a6&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Sass
-- Tailwind CSS
-- Git
-
-## Projects
-
-Here are some of my projects that I have worked on:
-
-- [Developer Portfolio](https://portfolio-tanpreet.netlify.app/) - A developer portfolio which shows my tech stacks and projects.
-- [Landing Page](https://landingpage-tanpreet.netlify.app/) - A simple static landing page for a brand.
-- [Survey Form](https://surveyform-tanpreet.netlify.app/) - A clone of freeCodeCamp Survey Form.
-
-
-## Contact Me
-
-- Email: tanpreet2002@gmail.com
-- Twitter: [@JollyTanpreet](https://twitter.com/JollyTanpreet)
-- LinkedIn: [tanpreetjolly](https://www.linkedin.com/in/tanpreet-singh-jolly-b564a8232/)
+<a href="https://github.com/tanpreetjolly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanpreetjolly&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
