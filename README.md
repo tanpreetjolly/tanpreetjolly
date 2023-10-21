@@ -1,5 +1,11 @@
-# 💫 About Me:
-I am currently learning TypeScript<br>I am a full stack developer<br>I have worked as a Frontend and Full Stack Intern<br>I have MERN knowledge
+# 💫 Hey Everyone! I am Tanpreet Jolly
+I am full stack developer based out of New Delhi, India. I am passionate about building things for web.
+<br>
+I am a full stack developer
+<br>
+I have worked as a Frontend and Full Stack Intern
+<br>
+I have MERN knowledge
 
 
 ## 🌐 Socials:
