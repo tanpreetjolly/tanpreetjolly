@@ -1,11 +1,9 @@
 # 💫 Hey Everyone! I am Tanpreet Jolly
-I am full stack developer based out of New Delhi, India. I am passionate about building things for web.
-<br>
-I am a full stack developer
-<br>
-I have worked as a Frontend and Full Stack Intern
-<br>
-I have MERN knowledge
+<h3>I am full stack developer based out of New Delhi, India. I am passionate about building things for web.</h3>
+
+- [Tech or Tool 1]
+- [Tech or Tool 2]
+- [Tech or Tool 3]
 
 
 ## 🌐 Socials:
