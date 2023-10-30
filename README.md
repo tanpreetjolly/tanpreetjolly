@@ -15,10 +15,11 @@
 
 
 ## 📊 GitHub Stats:
+<div class="flex flex-col items-center">
 ![](https://github-readme-stats.vercel.app/api?username=tanpreetjolly&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanpreetjolly&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanpreetjolly&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanpreetjolly&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
