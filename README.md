@@ -1,4 +1,4 @@
-# 💫 Hey! I am Tanpreet Singh
+##  Hey! I am Tanpreet Singh
 <h3>I am a CS undergrad based out of New Delhi and passionate about building things for web.</h3>
 
 - I like to contribute and work with web technologies
