@@ -1,5 +1,5 @@
-# 💫 Hey Everyone! I am Tanpreet Jolly
-<h3>I am full stack developer based out of New Delhi, India. I am passionate about building things for web.</h3>
+# 💫 Hey! I am Tanpreet Singh
+<h3>I am a CS undergrad based out of New Delhi and passionate about building things for web.</h3>
 
 - I like to contribute and work with web technologies
 - I am currently learning Data Structures & Algorithms alongside TypeScript
