@@ -1,13 +1,13 @@
 ##  Hey! I am Tanpreet
 <h3>I build things for Web</h3>
 
-- I like to contribute and work with web technologies
-- I am currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- I like to Freelance as well, connect with me for any queries
+- Currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- Exploring Data Structure and Algos
+- My Learn_in_Public journey:  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JollyTanpreet) 
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanpreet-singh-jolly-b564a8232) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JollyTanpreet) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanpreet-singh-jolly-b564a8232)
 
 
 ## 💻 My Tech Stack:
