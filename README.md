@@ -1,7 +1,7 @@
 # Hey! I am Tanpreet
-# I build things for Web 🌐
+## I build things for Web 🌐
 
-- 🌱 Currently learning TypeScript
+- 💻 Currently learning TypeScript
 - 🧑‍💼 Exploring Data Structure and Algos
 - 🧑‍💻 Ex Full Stack at Genci 
 - 🎓 CSE Undergrad 2025
@@ -14,7 +14,7 @@
 
 
 
-## 💻 My Tech Stack:
+## My Tech Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 
 
