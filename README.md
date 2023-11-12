@@ -1,9 +1,11 @@
 ##  Hey! I am Tanpreet
 <h3>I build things for Web</h3>
 
-- Currently learning TypeScript
-- Exploring Data Structure and Algos
-- My Learn_in_Public journey:  
+- 🌱 Currently learning TypeScript
+- 🧑‍💼 Exploring Data Structure and Algos
+- 🧑‍💻 Ex Full Stack at Genci 
+- 🎓 CSE Undergrad 2025
+- 📫 My Learn_in_Public journey:  
 
 
 ## 🌐 Connect with me:
