@@ -5,7 +5,7 @@
 - 🧑‍💼 Exploring Data Structure and Algos
 - 🧑‍💻 Ex Full Stack at Genci 
 - 🎓 CSE Undergrad 2025
-- 📫 My Learn_in_Public journey: [@JollyTanpreet](https://twitter.com/JollyTanpreet)
+- 📫 My Learn_in_Public journey: [JollyTanpreet](https://twitter.com/JollyTanpreet)
 
 
 ## Connect with me:
