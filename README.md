@@ -5,7 +5,6 @@
 - 🧑‍💼 Exploring Data Structure and Algos
 - 🧑‍💻 Ex Full Stack at Genci 
 - 🎓 CSE Undergrad 2025
-- 💼 Currently working with [Vetmedman](https://vetmedman.com)
 - 📫 My Learn_in_Public journey: [JollyTanpreet](https://twitter.com/JollyTanpreet)
 
 
