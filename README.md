@@ -1,8 +1,7 @@
 # Hey! I am Tanpreet
 ## I build things for Web 🌐
 
-- 💻 Currently learning NextJS
-- 🧑‍💼 Exploring Data Structure and Algos
+- 💻 Currently building [SlideShots](https://slideshots.com)
 - 🎓 CSE Undergrad 2025
 - 📫 My Learn_in_Public journey: [JollyTanpreet](https://twitter.com/JollyTanpreet)
 
